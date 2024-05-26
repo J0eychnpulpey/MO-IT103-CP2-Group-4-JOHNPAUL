@@ -1,4 +1,7 @@
 # MO-IT103-CP2-Group-4-JOHNPAUL
+
+Main : https://github.com/eliakimset/MO-IT103-A1101-CP2-Group-4
+
 This is a backup repository in-case there is accident that might cause error or misconfigure in our group repo. 
 
 This project was made by Group 4 | A1101 | IT103 
