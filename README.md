@@ -1,5 +1,7 @@
 # MO-IT103-CP2-Group-4-JOHNPAUL
 
+![image](https://github.com/J0eychnpulpey/MO-IT103-CP2-Group-4-JOHNPAUL/assets/106713068/09402a95-34c3-4eb1-b62c-e28af5a4a54e)
+
 Main : https://github.com/eliakimset/MO-IT103-A1101-CP2-Group-4
 
 This is a backup repository in-case there is accident that might cause error or misconfigure in our group repo. 
